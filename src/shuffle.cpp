@@ -32,8 +32,4 @@ void shuffle3(vector<int>& deck) {
     }
 }
 
-// Helper to print deck
-void printDeck(const vector<int>& deck) {
-    for (int x : deck) cout << x << " ";
-    cout << "\n";
-}
+

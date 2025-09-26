@@ -3,6 +3,7 @@
 #include <catch2/generators/catch_generators_range.hpp>
 #include "../src/shuffle.hpp"
 #include <vector>
+#include <numeric>
 #include <algorithm> // std::is_permutation
 
 using namespace std;
